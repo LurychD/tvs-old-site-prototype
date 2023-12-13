@@ -1,0 +1,347 @@
+/*CSS Code TVS Main home*/
+body {
+	background: linear-gradient(0deg, cyan, purple, crimson, black);
+	margin:0;
+   
+}
+
+.titlemain {
+     color: #fff;
+	 font-size:185px;
+	
+}
+
+.mars {
+	background: url("images/indexspace.png") no-repeat top left fixed;
+	padding:20px 15px;
+	height:400px;
+
+}
+
+
+h1 {
+	font-family: Andes, Revalia;
+	font-size:130px;
+	text-align: center;
+	text-transform: uppercase Revalia;
+	margin: 5px;
+	padding:0px;
+	text-shadow: 0px 5px rgba(0,0,0, 0.69);
+	
+}
+
+h2 {
+	font-family:"Lemon milk", Times new roman, cheltenham;
+	font-size:20px;
+	text-align: left;
+	color: linear-gradient(45deg, darkmagenta,white);
+	
+}
+
+.Welcome {
+	font-family:Raleway, Arial, "Lemon Milk";
+	color: rgba(255,255,255,0.85);
+	font-size:30px;
+	
+}
+
+.description {
+	font-family:Raleway, Arial, "Lemon Milk";
+	font-size:28px;
+	color:white;
+	
+	
+	
+	
+}
+
+
+* {
+	font-family:Arial, Times New Roman, sans-serif;
+}
+
+.below0 {
+	text-align: center;
+	font-family: "Times New Roman", sans-serif;
+	font-size:35px;
+	color:white;
+	
+}
+
+#Gamelist {
+	font-style=bold;
+	text-align: Center;
+	
+}
+
+/*Game list*/
+.ls-btl {
+	font-size: 30px;
+	font-family: "Bangers", sans-serif;
+	font-weight:500;
+	text-decoration:none;
+	list-style:none;
+	color:black;
+	
+}
+
+.ls-tsj {
+	font-size: 30px;
+	font-family: "Bangers", sans-serif;
+	font-weight:500;
+	text-decoration:none;
+	list-style:none;
+	color:black;
+	
+}
+
+.ls-r {
+	font-size: 30px;
+	font-family: "Bangers", sans-serif;
+	font-weight:500;
+	text-decoration:none;
+	list-style:none;
+	color:black;
+	
+}
+
+.ls-ih {
+	font-size: 30px;
+	font-family: "Bangers", sans-serif;
+	font-weight:500;
+	text-decoration:none;
+	list-style:none;
+	color:black;
+	
+}
+
+
+/*end game list*/
+
+.ourgames { /*What are you doing here boss?*/
+	font-family: Andes, Revalia;
+	color:white;
+	letter-spacing: 0.5em;
+	text-align:center;
+	
+}
+
+
+
+.inthis, .Comingsoon {
+	text-align:center;
+}
+
+
+
+	
+* {
+	text-align: center;
+}
+
+p {
+	font-size: 25px;
+	font-family: "franklin gothic medium", Helvetica, serif;
+	color:white;
+}
+
+li {
+	font-family:"franklin gothic medium",Helvetica,serif;
+}
+
+.abigalcastle-main {
+	
+	text-align: center;
+	
+}
+
+#AbigalCastle {
+	color: #fff ;
+	letter-spacing:0.4em;
+}
+
+
+/*NAVIGATION BAR*/
+.tvsheader {
+	font-family: Andes, Revalia;
+	color:white;
+	letter-spacing: 0.5em;
+	float:left;
+	display:block;
+	text-decoration:none;
+	font-size: 30px;
+	padding: 8px 12px;
+	font-weight:600;
+}
+
+.navigation {
+	font-family:"Market Deco", Bangers, serif;
+	
+	
+}
+
+.nav {
+	color:white;
+	list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+	background: linear-gradient(0deg, darkmagenta, crimson);
+	background-color:#7c1029;
+	/*Fixed bar*/
+	position: fixed;
+	top:0;
+	width:100%;
+	
+}	
+
+.section {
+	float: left;
+	display:block;
+    color: white;
+    text-align: center;
+    padding: 6px 12px;
+    text-decoration: none;
+	font-size: 20px;
+	font-weight:700;
+	letter-spacing:0.2em;
+	
+	/*Border*/
+
+}
+
+.section:last-child {
+	border-right:none;
+	
+}
+	
+.section:hover {
+	font-style: 700;
+	background: linear-gradient(0deg, crimson, purple);
+	
+	
+}
+
+.section:active {
+	font-style: 700;
+	background: linear-gradient(0deg, cyan, darkblue);
+}
+
+.futuresection {
+	display:none;
+	overflow:hidden;
+}	
+	
+.future {
+	visibility: hidden
+}
+
+* {
+	box-sizing: border-box;
+}
+
+
+
+
+.about-us {
+	color:crimson;
+	text-align: center;
+	text-decoration:none;
+	float:center;
+}
+
+.about-us:hover {
+	color:red;
+	text-align: center;
+	text-decoration:underline;
+}
+
+
+
+.propaganda-opff {
+	background-image: url("file:///D:/Working%20Tools/ABIGALCASTLE-GAMES/Behind%20the%20life%20Graphics/A%20new%20adventure%20BTL.png");
+	box-sizing:border-box;
+	padding:15px;
+	position:fixed;
+	text-align:center;
+	left:0;
+	top:200px;
+	width:1100px;
+	color:white;
+	cursor:pointer;
+	background-repeat: no-repeat;
+	z-index:1;
+}
+
+.follow {
+	text-align:center;
+	font-family:"Franklin Gothic Medium", Times New Roman, sans-serif;
+	font-size:27px;
+	color:white;
+	background-size:100% 100%;
+	background: url("file:///D:/Working%20Tools/ABIGALCASTLE-GAMES/Behind%20the%20life%20Graphics/A%20new%20adventure%20BTL.png") no-repeat top center fixed;
+	padding: 18px 28px;
+	width:100%;
+ 
+    
+	
+    
+	
+}
+.followtext {
+	text-align:center;
+	font-family:"Franklin Gothic Medium", Times New Roman, sans-serif;
+	font-size:27px;
+	color:white;
+	background-size:40% 100%;
+	background: rgba(0 ,0 , 0,0.5);
+	
+	
+}
+
+.redsocialbt {
+	float:center;
+	clear: right;
+}
+.fb, .ig, .tw {
+	margin: 4px 30px;
+	
+}
+.tvshover {
+	display:none;
+}
+.tvshover:hover.ig {
+	display:block;
+	position: 0px, 50px;
+}
+
+.l-options {
+	font-family: "franklin medium gothic", helvetica, serif;
+	font-size:22px;
+	text-decoration:none;
+	color: darkcyan;
+	margin:5px;
+}
+
+.l-options:hover {
+	color:black;
+}
+
+.l-options:active {
+	background-color:darkcyan;
+	padding:3px;
+}
+
+#Copyright {
+	font-family:"Arial Black", "Times New Roman";
+	font-size: 14px;
+	color: rgba(0, 0, 0, 0.786);
+	letter-spacing:0.2em;
+	
+}
+     
+
+
+
+
+

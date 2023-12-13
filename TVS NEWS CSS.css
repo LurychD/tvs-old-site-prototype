@@ -1,0 +1,289 @@
+/*CSS Code TVS News section*/
+body {
+	background: linear-gradient(0deg, cyan, purple, crimson, darkred);
+	background-repeat:no-repeat;
+	margin:0px;
+   
+}
+
+.maintop {
+	background: url("images/newscover.png") no-repeat bottom center fixed;
+	padding:30px;
+	width:100%;
+	background-size:cover;
+}
+
+.titlemain {
+     color: #fff;
+	
+}
+
+
+
+h1 {
+	font-family: Andes, Revalia;
+	font-size:170px;
+	text-align: center;
+	text-transform: uppercase Revalia;
+	margin: 5px;
+	padding:0px;
+	text-shadow: 0px 5px rgba(0,0,0, 0.69);
+	
+}
+
+h2 {
+	font-family:"Lemon milk", Times new roman, cheltenham;
+	font-size:20px;
+	text-align: left;
+	color: linear-gradient(45deg, darkmagenta,white);
+	
+}
+
+.Welcome {
+	font-family:Raleway, Arial, "Lemon Milk";
+	color: rgba(255,255,255,0.85);
+	font-size:30px;
+	
+}
+
+
+
+.titlewel {
+	font-family:Raleway, Arial, "Lemon Milk";
+	color: rgba(255,255,255,0.85);
+	font-size:30px;
+	text-align:center;
+}
+
+#Copyright {
+	font-family:"Arial Black", "Times New Roman";
+	font-size: 14px;
+	color: rgba(0, 0, 0, 0.786);
+	letter-spacing:1em;
+	
+}
+
+* {
+	font-family:Arial, Times New Roman, sans-serif;
+}
+
+.below0 {
+	text-align: center;
+	font-family: "Times New Roman", sans-serif;
+	font-size:35px;
+	color:white;
+	
+}
+
+#Gamelist {
+	color:Yellow;
+	text-align: Center;
+	
+}
+
+.ls {
+	font-size: 30px;
+	font-family: "Bangers", sans-serif;
+	font-weight:500;
+	text-decoration:none;
+	
+}
+
+.ourgames { /*What are you doing here boss?*/
+	font-family: Andes, Revalia;
+	color:white;
+	letter-spacing: 0.5em;
+	text-align:center;
+	
+}
+
+
+
+.inthis, .Comingsoon {
+	text-align:center;
+}
+
+
+
+	
+* {
+	text-align: center;
+}
+
+p {
+	font-size: 25px;
+}
+
+
+/*NAVIGATION BAR*/
+.tvsheader {
+	font-family: Andes, Revalia;
+	color:white;
+	letter-spacing: 0.5em;
+	float:left;
+	display:block;
+	text-decoration:none;
+	font-size: 30px;
+	padding: 8px 12px;
+	font-weight:600;
+}
+
+.navigation {
+	font-family:"Market Deco", Bangers, serif;
+	
+	
+}
+
+.nav {
+	color:white;
+	list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+	background: linear-gradient(0deg, darkmagenta, crimson);
+	background-color:#7c1029;
+	/*Fixed bar*/
+	position: fixed;
+	top:0;
+	width:100%;
+	
+}	
+
+.section {
+	float: left;
+	display:block;
+    color: white;
+    text-align: center;
+    padding: 6px 12px;
+    text-decoration: none;
+	font-size: 20px;
+	font-weight:700;
+	letter-spacing:0.2em;
+	
+	/*Border*/
+
+}
+
+.section:last-child {
+	border-right:none;
+	
+}
+	
+.section:hover {
+	font-style: 700;
+	background: linear-gradient(0deg, crimson, purple);
+	
+	
+}
+
+.section:active {
+	font-style: 700;
+	background: linear-gradient(0deg, cyan, darkblue);
+}
+
+.futuresection {
+	display:none;
+	overflow:hidden;
+}	
+	
+.future {
+	visibility: hidden
+}
+
+* {
+	box-sizing: border-box;
+}
+
+
+
+
+.about-us {
+	color:crimson;
+	text-align: center;
+	text-decoration:none;
+}
+
+.about-us:hover {
+	color:red;
+	text-align: center;
+	text-decoration:underline;
+}
+
+
+
+.propaganda-opff {
+	background-image: url("file:///D:/Working%20Tools/ABIGALCASTLE-GAMES/Behind%20the%20life%20Graphics/A%20new%20adventure%20BTL.png");
+	box-sizing:border-box;
+	padding:15px;
+	position:fixed;
+	text-align:center;
+	left:0;
+	top:200px;
+	width:1100px;
+	color:white;
+	cursor:pointer;
+	background-repeat: no-repeat;
+	z-index:1;
+}
+
+.follow {
+	text-align:center;
+	font-family:"Franklin Gothic Medium", Times New Roman, sans-serif;
+	font-size:27px;
+	color:white;
+}
+
+.l-options {
+	font-family: "franklin medium gothic", helvetica, serif;
+	font-size:22px;
+	text-decoration:none;
+	color: darkcyan;
+	margin:5px;
+}
+
+.l-options:hover {
+	color:black;
+}
+
+.l-options:active {
+	background-color:purple;
+	padding:3px;
+}
+
+.p-post {
+	font-family:"franklin gothic medium", helvetica, serif;
+	font-size:2.343rem;
+	text-align:left;
+	padding:25px;
+}
+
+/*POSTS*/
+
+.postsh {
+	font-family:"franklin gothic medium", Arial;
+	font-size:60px;
+	color:white;
+	text-align:left;
+	font-weight:500;
+	margin:40px;
+	border: 4px solid #fff;
+	margin-right:1030px;
+
+}
+
+.postsection {
+	font-family: "franklin gothic medium", bangers, sans-serif;
+	font-size:70px;
+	font-style:bold;
+	margin:25px;
+	color:#fff;
+	text-shadow: 0px 4px rgba(0,0,0,0.6.7);
+	background: linear-gradient (0deg, violet, cyan, white);
+}
+
+.posts-b {
+	border: 5px inset #fff;
+	margin-right:350px;
+	text-shadow: 0px 3.5px rgba(0,0,0,0.7);
+	
+}

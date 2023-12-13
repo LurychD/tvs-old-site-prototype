@@ -1,0 +1,209 @@
+/*CSS Code TVS Contact us section*/
+body {
+	background: linear-gradient(0deg, cyan, purple, crimson, darkred);
+	background-repeat:no-repeat;
+	margin:0px;
+   
+}
+
+.maintop {
+	background: url("images/contactusimg.png") no-repeat top center fixed;
+	background-size:100%;
+	padding:50px;
+	margin-top:0;
+	
+}
+
+/*NAVIGATION BAR*/
+.tvsheader {
+	font-family: Andes, Revalia;
+	color:white;
+	letter-spacing: 0.5em;
+	float:left;
+	display:block;
+	text-decoration:none;
+	font-size: 30px;
+	padding: 8px 12px;
+	font-weight:600;
+}
+
+.navigation {
+	font-family:"Market Deco", Bangers, serif;
+	
+	
+}
+
+.nav {
+	color:white;
+	list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+	background: linear-gradient(0deg, darkmagenta, crimson);
+	background-color:#7c1029;
+	
+	/*Fixed bar*/
+	position: fixed;
+	top:0;
+	width:100%;
+	
+}	
+
+.section {
+	float: left;
+	display:block;
+    color: white;
+    text-align: center;
+    padding: 6px 12px;
+    text-decoration: none;
+	font-size: 20px;
+	font-weight:700;
+	letter-spacing:0.2em;
+	
+	
+	
+	/*Border*/
+
+}
+
+.section:last-child {
+	border-right:none;
+	
+}
+	
+.section:hover {
+	font-style: 700;
+	background: linear-gradient(0deg, crimson, purple);
+	
+	
+	
+}
+
+.section:active {
+	font-style: 700;
+	background: linear-gradient(0deg, cyan, blue);
+	
+}
+
+.section:focus {
+	font-style:600;
+	background-color; yellow;
+}
+
+.futuresection {
+	display:none;
+}
+
+
+
+
+/*END OF NAVIGATION BAR*/
+
+.titlemain {
+     color: #fff;
+	
+}
+
+
+
+h1 {
+	font-family: Andes, Revalia;
+	font-size:120px;
+	text-align: center;
+	text-transform: uppercase Revalia;
+	margin: 5px;
+	padding:0px;
+	text-shadow: 0px 5px rgba(0,0,0, 0.69);
+	color:white;
+
+	
+}
+
+h2 {
+	font-family:"franklin gothic medium", Times new roman, cheltenham;
+	font-size:31px;
+	text-align: center;
+	color: white;
+	
+}
+
+p {
+	color:white;
+    font-family: "franklin gothic medium", sans-serif;
+	font-size:25px;
+	margin:30px;
+	
+}
+
+/*PAGE BOTTOM*/
+.l-options {
+	font-family: "franklin medium gothic", helvetica, serif;
+	font-size:22px;
+	text-decoration:none;
+	color: darkcyan;
+	margin:5px;
+}
+
+.l-options:hover {
+	color:black;
+}
+
+.l-options:active {
+	background-color:purple;
+	padding:3px;
+}
+
+.about-us {
+	color:crimson;
+	text-align: center;
+	text-decoration:none;
+}
+
+.about-us:hover {
+	color:red;
+	text-align: center;
+	text-decoration:underline;
+}
+
+
+#Copyright {
+	font-family:"Arial Black", "Times New Roman";
+	font-size: 14px;
+	color: rgba(0, 0, 0, 0.786);
+	letter-spacing:0.2em;
+	
+}
+
+
+/*other*/
+* {
+	font-family:Arial, Times New Roman, sans-serif;
+}
+
+	
+* {
+	text-align: center;
+}
+
+p {
+	font-size: 25px;
+}
+
+.fb-button {
+	background-color:#4669a0;
+	border-radius:5px;
+	font-family:"franklin gothic medium", Helvetica, sans-serif;
+	font-weight:500;
+	font-size:40px;
+	padding:15px;
+	text-decoration:none;
+	color:#fff;
+	border: 3px outset #557fc1;
+}
+
+.fb-button:hover {
+	background-color:#36537f;
+	border: 3px inset #36537f;
+	
+}
+
